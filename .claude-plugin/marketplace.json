@@ -1,0 +1,18 @@
+{
+  "name": "builder-claude-skills",
+  "owner": {
+    "name": "Harish Sriram"
+  },
+  "metadata": {
+    "description": "Skills for building and maintaining products — documentation audits, token efficiency, and more.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "builder-skills",
+      "source": "builder-skills",
+      "description": "Product building skills: documentation audits, token efficiency analysis, merge recommendations"
+    }
+  ]
+}

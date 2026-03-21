@@ -1,0 +1,10 @@
+{
+  "name": "builder-skills",
+  "description": "Skills for building and maintaining products — documentation audits, token efficiency, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Harish Sriram"
+  },
+  "repository": "https://github.com/HarishSriram/builder-claude-skills",
+  "keywords": ["documentation", "audit", "token-efficiency", "product"]
+}
