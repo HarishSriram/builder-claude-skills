@@ -1,6 +1,6 @@
 # Builder Claude Skills
 
-A collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills I've built or found useful while building products. Topics range from documentation hygiene to design systems to whatever else turns out to be worth automating.
+A collection of [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills I've built or found useful while building products. Topics range from documentation hygiene to design systems to whatever else turns out to be useful for building.
 
 ## Installation
 
